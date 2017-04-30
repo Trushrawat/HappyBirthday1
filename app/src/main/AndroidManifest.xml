@@ -10,11 +10,11 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name"
+            android:label="HAppy"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
+nc
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
